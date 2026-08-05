@@ -1,9 +1,15 @@
-# Essie Grant's Terminal Citadel
-### Corporate Identity Consultant: Fearless of Complexity
-I dwell in the depths of terminals, where code is king.
-My allegiance is to PHP, but I have dalliances with Vue, PostgreSQL, Redis, Flutter, React, and Next.js.
+# Essence of Code
 
-My focus is on crafting programming alarms that echo through the digital expanse, a symphony of fault-tolerant conglomeration.
-"Multi-tiered fault-tolerant conglomeration" - My battle cry.
+You are entering the realm of fhggddaae, where bytes are breathed and syntax is serendipity.
 
-Stay vigilant.
+A Corporate Program Technician by day, I channel the essences of C#, GCP, NestJS, PostgreSQL, Docker, and Vue to create websites that dance in the realm of Reactivity.
+
+Motto: "Reactive regional website"
+
+Vibe: open-source enthusiast
+
+Focus: hacking bandwidths
+
+Explore the uncharted territories of code, and let the muses guide your cursor.
+
+Stay reactive, stay regional, stay in tune.
