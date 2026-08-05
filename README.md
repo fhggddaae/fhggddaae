@@ -1,15 +1,26 @@
-# Essence of Code
+# Infinite Loops and Profit Cycles
 
-You are entering the realm of fhggddaae, where bytes are breathed and syntax is serendipity.
+Welcome to my terminal dwelling experience.
 
-A Corporate Program Technician by day, I channel the essences of C#, GCP, NestJS, PostgreSQL, Docker, and Vue to create websites that dance in the realm of Reactivity.
+### About Me
 
-Motto: "Reactive regional website"
+I'm Essie Grant, a Corporate Solutions Consultant, fueled by the hum of servers and the glow of code.
 
-Vibe: open-source enthusiast
+### My Tools
 
-Focus: hacking bandwidths
+* C++: The secret sauce to harnessing computing's hidden potential.
+* PostgreSQL: The database whisperer's best friend.
+* AWS: The cloud's dark magic unleashed.
+* Flutter: A dash of UI magic on top of the chaos.
 
-Explore the uncharted territories of code, and let the muses guide your cursor.
+### Focus
 
-Stay reactive, stay regional, stay in tune.
+Transmitting drivers for your business's next breakthrough. Speed and precision are my guiding principles.
+
+### Motto
+
+"Profit-focused explicit throughput" - because the terminal is not just a screen, it's a window to the future.
+
+### Code
+
+Where the terminal dweller meets the code wizard.
